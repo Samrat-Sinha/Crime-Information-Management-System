@@ -7,7 +7,8 @@ The main aim of this system is to maintain and manage the detail information of 
         1. Date and Place of the Crime.
         2. Description of the crime i.e Robbery or Theft or Homicide etc.
         3. Victims.
-        4. Detail description of the crime that is in case of Robbery, the wealth that was stolen or in case of Homicide, the person(s) killed etc.
+        4. Detail description of the crime that is in case of Robbery, the wealth that was stolen or in case of Homicide, the
+           person(s) killed etc.
         5. The names of the main suspected.
 
 The information about the criminal is also to be maintained. The information will be as follows:-
